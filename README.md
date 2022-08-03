@@ -98,7 +98,7 @@ Resolución de ejercicios pares de los capítulos 15 y 16 del libro Principios d
 
 ## VIDEO
 
-
+https://youtu.be/LTaMKr50Teg
 
 ## CONCLUSIONES
 
