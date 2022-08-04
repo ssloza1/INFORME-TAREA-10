@@ -200,7 +200,107 @@ Diagrama fasorial:
 
 ![image](https://user-images.githubusercontent.com/105565683/182846205-fbd19169-5fb2-4ba2-bab6-994ef6fc6d30.png)
 
+![image](https://user-images.githubusercontent.com/105565683/182847947-20e83c82-26c5-488c-ba4d-4157b535df56.png)
 
+38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs = 1 V rms.
+
+![image](https://user-images.githubusercontent.com/105565683/182848033-91d32962-a0dc-41fc-855e-b5a366c48e3d.png)
+
+Diagrama fasorial:
+
+![image](https://user-images.githubusercontent.com/105565683/182848105-bafdf85b-b11d-44aa-858f-d42583b2ad20.png)
+
+40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
+
+![image](https://user-images.githubusercontent.com/105565683/182847261-bb40ee0d-d952-4733-94a7-508e872bc00c.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848166-1e4f3470-b9fe-4895-9de1-ddadc321812e.png)
+
+42. Repita el problema 41 para las siguientes frecuencias: 
+
+![image](https://user-images.githubusercontent.com/105565683/182847309-2b6c53ee-80a7-4142-972a-6f08d12e8f51.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848323-41526c39-ccc7-44b6-9a48-141ff5d11959.png)
+
+44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
+
+![image](https://user-images.githubusercontent.com/105565683/182847351-7c362732-6893-4b54-94f2-74653628fbd0.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848390-7111dfb0-bac3-4a47-aa56-4fff708a9b1f.png)
+
+46. Repita el problema 45 con R = 5.6 kΩ, C1 = 0.047 µF, C2 = 0.022 µF, y f = 500 Hz.
+
+![image](https://user-images.githubusercontent.com/105565683/182847387-a49b91f6-2ef4-431f-827e-68dd4c7d84e2.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848468-10ca5a04-8e63-45a1-93e4-3229c043d365.png)
+
+*48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.
+
+![image](https://user-images.githubusercontent.com/105565683/182847478-0749c1a8-7e5d-46ee-adba-04f6c223cd29.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848561-f02480f9-df64-4150-9c87-a85e92dbab40.png)
+
+50. ¿Es el circuito de la figura 15-100 predominantemente resistivo o predominantemente capacitivo?
+
+![image](https://user-images.githubusercontent.com/105565683/182848655-6e199a79-382d-497f-b077-de7e36d7981b.png)
+
+52. Para el circuito de la figura 15-101, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105565683/182847524-1cc6361b-696d-48fd-80d0-cfe13fcdda6e.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848739-9c309a31-6040-4984-a668-8e915f614009.png)
+
+*54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/105565683/182847548-69f7fd64-cf74-44cb-9b29-cccbec293149.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848798-7e5ffd88-8b5d-428d-a469-79aff8b56fb0.png)
+
+*56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/105565683/182847584-59081d5d-570f-4f6f-9cc2-e32099789e02.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848884-f9f5d1e4-ac2a-4848-bad6-bf85ebee8711.png)
+
+58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
+
+![image](https://user-images.githubusercontent.com/105565683/182847622-cf128c8e-fe03-4b2a-a806-78e9e93e6623.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182848946-48126ba8-435d-4078-85ba-8b32e7b2bcdf.png)
+
+60. Determine Preal, Pr, Pa, y FP para el circuito de la figura 15-101. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/105565683/182847649-75ccc70e-8bdf-44ec-a160-b73a59eeae07.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182849034-b49fe2f7-1acb-42d5-9bd9-c336fcb900c9.png)
+
+Triangulo de potencia: 
+
+![image](https://user-images.githubusercontent.com/105565683/182849106-fc9b4b49-4ed0-4765-9c9d-b19feb0a5c95.png)
+
+62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 mF y todos los resistores de 10 kΩ.
+
+![image](https://user-images.githubusercontent.com/105565683/182847703-b55d94ca-5a05-4bd6-a8da-eb05b21c993f.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182849152-cde9896e-467b-4622-baaa-aadabd6a7bfc.png)
+
+64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kΩ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?
+
+![image](https://user-images.githubusercontent.com/105565683/182847730-2421766f-b4b4-4aa2-9b9b-68879e36dfe7.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182849227-af7cad8d-b599-4e73-86a8-a90337b5d81c.png)
+
+*66. Los capacitores de la figura 15-107 han desarrollado una resistencia de fuga de 2 kΩ. Determine los voltajes de salida en esta condición para cada circuito.
+
+![image](https://user-images.githubusercontent.com/105565683/182847768-dd075407-4da0-4708-b0b1-f98fdd2fdf94.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182849296-faf6be3b-abe2-41ff-b763-1181f9f5feb0.png)
+
+68. Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+
+![image](https://user-images.githubusercontent.com/105565683/182847803-2cc7c886-2a63-4eff-b515-1e920246021d.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182849366-a1a4de70-0201-43c6-9142-c11cdde8b5d8.png)
 
 ### CAPITULO :
 
