@@ -122,6 +122,84 @@ Resolución de ejercicios pares de los capítulos 15 y 16 del libro Principios d
 
 ![image](https://user-images.githubusercontent.com/105565683/182844232-024ce426-5cc3-4431-af7d-a519fbe7fd3c.png)
 
+12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
+
+![image](https://user-images.githubusercontent.com/105565683/182844419-b367195c-0cfc-48a7-92f8-eba1ccb3fdef.png)
+
+14. Sume los siguientes conjuntos de números complejos:
+
+![image](https://user-images.githubusercontent.com/105565683/182844533-d04a84b7-7b3c-4b2c-902e-56050e9dfbd1.png)
+
+16. Multiplique los siguientes números:
+
+![image](https://user-images.githubusercontent.com/105565683/182844659-813a819e-b5c1-4876-b7fd-d90cf7563bcd.png)
+
+18. Realice las siguientes operaciones:
+
+![image](https://user-images.githubusercontent.com/105565683/182844759-f2c72105-8543-4d2c-9c69-55366b6c3aef.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182844832-9e3e0d42-a6b0-4aa8-b475-38c7832fee63.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182844908-b8ea2882-3bf3-4987-bd2c-3c99e4361e97.png)
+
+20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
+
+R: La corriente es senoidal.
+
+22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
+
+![image](https://user-images.githubusercontent.com/105565683/182844970-79d93f83-5a86-4092-b3a8-f73dca0ad734.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845085-bf2be89e-dbba-4ad5-a279-0bc002f7dccb.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845150-85f6e1f3-53a8-4e65-aea0-eba27f252309.png)
+
+24. Repita el problema 23 con C = 0.0047 µF.
+
+![image](https://user-images.githubusercontent.com/105565683/182845216-f3f9ff3d-28e7-4b81-923f-e7c16f7d9069.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845280-a85df6f7-1993-4c1b-8e4b-a9483ae5b3f3.png)
+
+26. Exprese la corriente en forma polar para cada circuito de la figura 15-84.
+
+![image](https://user-images.githubusercontent.com/105565683/182845343-1288983f-2ce5-46e9-8566-28152a2154b1.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845415-cf9d499e-13cc-4ee7-b33c-5e962e68410a.png)
+
+28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
+
+![image](https://user-images.githubusercontent.com/105565683/182845466-40ff7f46-9381-4505-b523-03781367b34e.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845542-d9a6f3ca-61dc-409d-ad3a-6904f9dd9e3c.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845612-9bb02b18-733b-4cfc-9673-4f070bf469ff.png)
+
+30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
+
+![image](https://user-images.githubusercontent.com/105565683/182845668-e67a8f55-92c1-4414-ab75-cb32aec11cb2.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182845814-70f55b28-edad-47d1-beaa-887848caa252.png)
+
+Diagrama fasorial:
+
+![image](https://user-images.githubusercontent.com/105565683/182845857-331a0be6-f34c-464e-8963-2865c72c0b60.png)
+
+*32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
+
+![image](https://user-images.githubusercontent.com/105565683/182845893-d880c309-9fda-4705-8df5-361979332b9a.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182846045-969f111e-650c-4c3e-a1c8-1673632e10a6.png)
+
+34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias: 
+
+![image](https://user-images.githubusercontent.com/105565683/182846095-58fe83e1-9d74-4c07-9b7f-2c75ef084d05.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182846161-037eeaf0-ca57-492f-85fc-65d793d62f66.png)
+
+36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
+
+![image](https://user-images.githubusercontent.com/105565683/182846205-fbd19169-5fb2-4ba2-bab6-994ef6fc6d30.png)
+
 
 
 ### CAPITULO :
