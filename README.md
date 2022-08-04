@@ -92,7 +92,37 @@ Un circuito con resistencia y autoinducción se conoce como circuito RL.
 
 Resolución de ejercicios pares de los capítulos 15 y 16 del libro Principios de Circuitos Eléctricos - Floyd.
 
-### CAPITULO :
+### CAPITULO 15 CIRCUITOS RC:
+
+2. Localice los siguientes números en el plano complejo:
+
+![image](https://user-images.githubusercontent.com/105565683/182843363-5040a5ea-eca7-4d11-bd09-0c344aff258d.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182843543-e6aaba8b-d1df-45d5-adef-4da5da4a6eff.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182843608-7725c010-bb98-4379-baff-cc9624042da4.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182843732-31d0f88b-95c6-4091-a4a3-bf604498beec.png)
+
+*4. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 180° de cada uno de los puntos del problema 3.
+
+![image](https://user-images.githubusercontent.com/105565683/182843846-c9e09280-4ff7-4e1e-932e-3312e8b4b46d.png)
+
+6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular: 
+
+![image](https://user-images.githubusercontent.com/105565683/182843944-3077d40b-48e3-4e2c-88fc-d35fb13944d4.png)
+
+8. Convierta cada uno de los siguientes números rectangulares a forma polar:
+
+![image](https://user-images.githubusercontent.com/105565683/182844053-f9f566d2-706d-4a5e-926c-3005c0613071.png)
+
+![image](https://user-images.githubusercontent.com/105565683/182844132-f51a93b6-b04a-4e28-b85a-55ae3ebb0579.png)
+
+10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo.
+
+![image](https://user-images.githubusercontent.com/105565683/182844232-024ce426-5cc3-4431-af7d-a519fbe7fd3c.png)
+
+
 
 ### CAPITULO :
 
